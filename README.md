@@ -1,1 +1,1 @@
-# inventory_rl
+# kanban-app
